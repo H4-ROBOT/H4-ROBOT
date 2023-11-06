@@ -3,7 +3,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=H4-ROBOT.Gesiel-Jr_H4_ROBOT" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=5000&lines=Olá+Pessoal+!+👋;+Eu+sou+<Gesiel+Jr>+🤖+</+H4_ROBOT+>..;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=5000&lines=Hello,++Welcome!👋++My+Name+is:;++<Gesiel+Jr>+🤖+</+H4_ROBOT+>..;" />
 </h1>
 
 
@@ -49,7 +49,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/H4-ROBOT/Gesiel-Jr_H4_ROBOT/output/github-contribution-grid-snake-dark.svg"/>
+  <img alt="Game Snake Commits" src="https://raw.githubusercontent.com/H4-ROBOT/Gesiel-Jr_H4_ROBOT/output/github-contribution-grid-snake-dark.svg"/>
   
   <br/><br/><br/>
 </div>
