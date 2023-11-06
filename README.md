@@ -1,4 +1,3 @@
-# Gesiel-Jr_H4_ROBOT
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=H4-ROBOT.Gesiel-Jr_H4_ROBOT" />
 
@@ -13,13 +12,13 @@
 
 <div align="center">
  
- 🔭 I'm currently working on a **library management APP**
+ 🧑‍💻 **I'm currently a SOFTWARE ENGINEERING student**
  
- 🌱 I'm currently learning **C, PYTHON, HTML, CSS, JAVASCRIPT**
+ 🌱 **I'm currently learning languages: C, PYTHON, HTML, CSS, JAVASCRIPT**
 
- 💬 Ask me about **What am I capable of, and how can I help you** **[here](https://github.com/H4-ROBOT/Gesiel-Jr_H4_ROBOT/issues)**
+ 💬 **Ask me about: What am I capable of, and how can I help you** **[here](https://github.com/H4-ROBOT/Gesiel-Jr_H4_ROBOT/issues)**
 
- ⚡ Fun fact **D&D has a direct connection with the famous cartoon, Dragon's Cave**
+ ⚡ **Fun fact:  D&D has a direct connection with the famous cartoon, Dragon's Cave**
  
  </div>
  
@@ -47,7 +46,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>🐍 My contributions are always in progress, never stopped! 🐍</h2>
   <br>
   <img alt="Game Snake Commits" src="https://raw.githubusercontent.com/H4-ROBOT/Gesiel-Jr_H4_ROBOT/output/github-contribution-grid-snake-dark.svg"/>
   
