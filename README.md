@@ -1,6 +1,6 @@
 # Gesiel-Jr_H4_ROBOT
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=H4-ROBOT.Gesiel-Jr_H4_ROBOT" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=5000&lines=Olá+Pessoal+!+👋;+Eu+sou+<Gesiel+Jr>+🤖+</+H4_ROBOT+>..;" />
@@ -49,7 +49,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-![snake gif](https://github.com/H4-ROBOT/H4-ROBOT/blob/output/github-contribution-grid-snake.svg)
+ <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/H4-ROBOT/Gesiel-Jr_H4_ROBOT/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </div>
 
